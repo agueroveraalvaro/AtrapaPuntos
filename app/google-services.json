@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195120954160",
+    "firebase_url": "https://atrapapuntos-ff8d0.firebaseio.com",
+    "project_id": "atrapapuntos-ff8d0",
+    "storage_bucket": "atrapapuntos-ff8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195120954160:android:a45b7eeaf19a0ec2",
+        "android_client_info": {
+          "package_name": "com.atrapapuntos.spiderman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195120954160-pig7datt38blcq01a058dmukljcpj8hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atrapapuntos.spiderman",
+            "certificate_hash": "60bd5ccf863d74c281b4bc9d2831ac891c774426"
+          }
+        },
+        {
+          "client_id": "195120954160-1ed3ee87at07tfvmehn649ebajml6j8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvfokecjAe4F9EeV-24pwVzUGT78YFMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195120954160-1ed3ee87at07tfvmehn649ebajml6j8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
